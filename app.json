@@ -1,16 +1,16 @@
 {
 
   "name": "PRABATH-MD (5.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "description": "𝚫𝐒𝐆𝚮𝚫𝚪-𝐉𝚫𝚻𝚯𝚰 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/7524772002c61b06b4861.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "𝚫𝐒𝐆𝚮𝚫𝚪-𝐉𝚫𝚻𝚯𝚰"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
   "OWNER_NAME": {
   "description": "Enter your name",
-      "value": "PRABATH"
+      "value": "𝚫𝐒𝐆𝚮𝚫𝚪 𝐉𝚫𝚻𝚯𝚰"
   },
     "DL_SIZE": {
   "description": "The bot cannot download files beyond the number you enter",
@@ -22,7 +22,7 @@
     },
    "ALIVE_MSJ": {
     "description": "enter alive message",
-     "value": "i am alive now 🙋‍♂️"
+     "value": "𝞓𝙇𝞘 𝞓𝙎𝙂𝞖𝞓𝞒 𝙅𝞓𝙏𝞗𝞘 +923168687317🙋‍♂️"
     },
   "HEROKU_APP_NAME": {
     "description": "put your heroku_app_name",
@@ -61,7 +61,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94762280384"
+       "value": "+923168687317"
   },
    "SESSION_ID": {
     "description": "Scan the QR and enter the code "
@@ -88,8 +88,8 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
-     "required": false 
+     "value": "𝞓𝙇𝞘-𝞓𝙎𝙂𝞖𝞓𝞒-𝙅𝞓𝙏𝞗𝞘🎊;+923168687317✅",
+     "required": true 
   }
   
 },
